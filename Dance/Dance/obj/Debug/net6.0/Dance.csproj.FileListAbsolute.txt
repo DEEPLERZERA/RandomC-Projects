@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\bin\Debug\net6.0\Dance.exe
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\bin\Debug\net6.0\Dance.deps.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\bin\Debug\net6.0\Dance.runtimeconfig.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\bin\Debug\net6.0\Dance.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\bin\Debug\net6.0\Dance.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.csproj.AssemblyReference.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\refint\Dance.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\Dance.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Dance\Dance\obj\Debug\net6.0\ref\Dance.dll

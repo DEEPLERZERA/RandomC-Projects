@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\bin\Debug\net6.0\DrawingApplication.exe
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\bin\Debug\net6.0\DrawingApplication.deps.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\bin\Debug\net6.0\DrawingApplication.runtimeconfig.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\bin\Debug\net6.0\DrawingApplication.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\bin\Debug\net6.0\DrawingApplication.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.csproj.AssemblyReference.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\refint\DrawingApplication.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\DrawingApplication.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\DrawingApplication\DrawingApplication\obj\Debug\net6.0\ref\DrawingApplication.dll

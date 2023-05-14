@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dance", "Dance\Dance.csproj", "{00FE3317-641E-405C-ADE6-8144A96FFCB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FE3317-641E-405C-ADE6-8144A96FFCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FE3317-641E-405C-ADE6-8144A96FFCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FE3317-641E-405C-ADE6-8144A96FFCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FE3317-641E-405C-ADE6-8144A96FFCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {495EED7F-EFF6-4181-B826-3221E80224C3}
+	EndGlobalSection
+EndGlobal
