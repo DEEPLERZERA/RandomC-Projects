@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\bin\Debug\net6.0\Barmen.exe
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\bin\Debug\net6.0\Barmen.deps.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\bin\Debug\net6.0\Barmen.runtimeconfig.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\bin\Debug\net6.0\Barmen.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\bin\Debug\net6.0\Barmen.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.csproj.AssemblyReference.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\refint\Barmen.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\Barmen.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\Barmen\Barmen\obj\Debug\net6.0\ref\Barmen.dll
