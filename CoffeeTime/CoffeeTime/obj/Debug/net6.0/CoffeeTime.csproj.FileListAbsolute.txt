@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\bin\Debug\net6.0\CoffeeTime.exe
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\bin\Debug\net6.0\CoffeeTime.deps.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\bin\Debug\net6.0\CoffeeTime.runtimeconfig.json
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\bin\Debug\net6.0\CoffeeTime.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\bin\Debug\net6.0\CoffeeTime.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.csproj.AssemblyReference.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\refint\CoffeeTime.dll
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.pdb
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\CoffeeTime.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Documentos\RandomC#Projects\CoffeeTime\CoffeeTime\obj\Debug\net6.0\ref\CoffeeTime.dll
