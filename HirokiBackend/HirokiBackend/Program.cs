@@ -24,7 +24,7 @@ namespace HirokiBackend
 
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
             builder.Services.AddScoped<IContaRepositorio, ContaRepositorio>();
-
+            builder.Services.AddScoped<ITransacaoRepositorio, TransacaoRepositorio>();
 
             var app = builder.Build();
 

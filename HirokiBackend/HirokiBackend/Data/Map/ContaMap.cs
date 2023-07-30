@@ -15,6 +15,7 @@ namespace HirokiBackend.Data.Map
                 builder.Property(x => x.openedDate).IsRequired();
                 builder.Property(x => x.userId).IsRequired();
 
+
                 builder.HasOne(x => x.user);
 
             }

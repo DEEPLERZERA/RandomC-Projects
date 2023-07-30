@@ -12,6 +12,7 @@
         public int openedDate { get; set; }
 
         public int userId { get; set; }
+        public int transactionId { get; set; }
 
         public virtual UsuarioModel? user { get; set; }
 

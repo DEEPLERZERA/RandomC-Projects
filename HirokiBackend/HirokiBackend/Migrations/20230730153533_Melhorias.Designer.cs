@@ -3,6 +3,7 @@ using HirokiBackend.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HirokiBackend.Migrations
 {
     [DbContext(typeof(SistemaDeBancoDBContext))]
-    partial class SistemaDeBancoDBContextModelSnapshot : ModelSnapshot
+    [Migration("20230730153533_Melhorias")]
+    partial class Melhorias
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

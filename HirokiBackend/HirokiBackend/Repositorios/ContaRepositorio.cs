@@ -47,7 +47,7 @@ namespace HirokiBackend.Repositorios
         {
             ContaModel contaId = await _dbContext.Accounts.Include(x => x.user).FirstOrDefaultAsync(x => x.id == id);
 
-            if(contaId == null)
+            if (contaId == null)
             {
                 throw new Exception($"Conta para o ID: {id} não foi encontrado no banco de dados.");
             }
